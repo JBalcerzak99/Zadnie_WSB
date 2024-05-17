@@ -1,8 +1,5 @@
 package com.capgemini.wsb.dto;
 
-import com.capgemini.wsb.persistence.entity.DoctorEntity;
-import com.capgemini.wsb.persistence.entity.PatientEntity;
-
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
